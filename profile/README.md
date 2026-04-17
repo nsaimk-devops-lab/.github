@@ -52,19 +52,23 @@ Each repository represents a **specific domain or technology area**, such as:
 - `cicd`
 
 Inside each repository, individual challenges are organised as:
-
+```
 project-name/
+│
 ├── problem.md
 ├── assumptions.md
 ├── architecture.md
 ├── plan.md
 ├── decisions.md
+│
 ├── infra/
 ├── cicd/
 ├── monitoring/
+│
 ├── runbook.md
-└── (optional) migration-strategy.md / rollback-strategy.md
-
+└── migration-strategy.md (optional)
+└── rollback-strategy.md (optional)
+```
 
 ---
 
