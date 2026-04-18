@@ -68,8 +68,8 @@ project-name/
 ├── monitoring/
 │
 ├── runbook.md
-└── migration-strategy.md (optional)
-└── rollback-strategy.md (optional)
+└── migration-strategy.md
+└── rollback-strategy.md
 ```
 
 ---
