@@ -51,6 +51,8 @@ Each repository represents a **specific domain or technology area**, such as:
 - `docker`
 - `cicd`
 
+![Alt text](https://github.com/user-attachments/assets/1261c24c-9606-4664-a748-b56186880fe9)
+
 Inside each repository, individual challenges are organised as:
 ```
 project-name/
